@@ -1,4 +1,4 @@
-# Fire Propagation Tree Toolkit (FPT) 
+# Fire Propagation Tree Plus (FPT-plus) 
 ### Generating fire propagation tree graphs and fireplain data datasets from the fire growth model outputs
 
 ## Overview
